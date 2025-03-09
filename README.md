@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amogelang10
 - 👀 I’m interested in App Dev
-- 🌱 I’m currently learning Web dev
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web/App development
 - 📫 How to reach me amogelangemmanuel05@gmail.com
 - 😄 Pronouns: he him
